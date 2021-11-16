@@ -2,4 +2,4 @@
 
 NodeJS + Socket.io + WebRTC
 
-https://app.netlify.com/sites/my-video-chat
+https://my-video-chat.netlify.app/
